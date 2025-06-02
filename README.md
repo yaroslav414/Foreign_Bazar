@@ -10,7 +10,7 @@ npm run dev
 ```
 and for run your database put 
 ```
-json-server -w db.json -p 3000
+json-server -w db.json -p 3000 
 
 ```
 
